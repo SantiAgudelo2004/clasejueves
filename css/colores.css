@@ -1,0 +1,22 @@
+.nombredeColor{
+    color: bisque;
+    color: blanchedalmond;
+    color: beige;
+    color: pink;
+    color: antiquewhite;
+    color: burlywood;
+    color: wheat;
+}
+.coloresrgb{
+    color: rgb(red, green, blue);
+}
+.coloreshexadecimales{
+color: #000000;
+color: #ffffff;
+color: #123456;
+color: #ff0066;
+color: #00ff66;
+color: #999999;
+color: #f685b1;
+
+}

@@ -1,0 +1,70 @@
+h1 {
+    background-color: rgb(255, 255, 255);
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+    color: plum;
+    text-align: center;
+    background-image: url();
+}
+
+p {
+    text-align: justify;
+    color: khaki;
+    font-size: larger;
+}
+article h1{
+    background-color: darkorchid;
+    color: azure;
+    text-transform: uppercase;
+    padding: 15px;
+}
+#logo{
+    background-color: rgb(0, 0, 0);
+    width: 150px;
+    height: 150px;
+    font-size: 72px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    line-height: 150px;
+    border-radius: 50px;
+}
+.destacado{
+    text-align: right;
+    color: darkorchid;
+    font-style: italic;
+    width: 70%;
+    margin-left: 20%;
+    border-top: beige 3px solid;
+    border-left: 7px blueviolet dashed;
+}
+.parrafo2{
+    background-color: aliceblue;
+    font-style: normal;
+    color: blueviolet;
+    padding-top: 50px;
+    padding-left: 50px;
+   margin: 50px 80px 50px 80px;
+}
+
+a{
+    color: beige;
+}
+nav a:hover{
+    background-color: blueviolet;
+}
+nav a:link, nav a:visited{
+    color: greenyellow;
+    text-decoration: none;
+    padding: 6px 8px;
+    border: solid 1px rebeccapurple
+}
+nav li{
+    display: inline;
+}
+.todo{
+    width: 1200px;
+    background-color: aquamarine;
+}
+/* para hacer comentarios */

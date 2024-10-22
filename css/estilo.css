@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: bisque;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: antiquewhite;
+    font-size: 30px;
+}
+header{
+    background-color: pink;
+    text-align: center;
+    line-height: 150px;
+    height: 150px;
+}
+section{
+    padding: 20px;
+    display: flex;
+    column-gap: 2%;
+    flex-wrap: wrap;
+    row-gap: 20px;
+}
+article{
+    box-shadow: 0 0 15px 0 powderblue;
+    padding: 5px;
+    border-radius: 10px;
+    width: 49%;
+}
+article h1{
+background-color: white;
+text-align: center;
+padding: 10px;
+color: black;
+border-radius: 10px 10px 0 0;
+}

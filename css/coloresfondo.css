@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+
+img{
+    width: 100%;
+}
+header{
+    color: azure;
+}
+
+
+@media (min-width: 576px){
+
+    body{
+        background-color: whitesmoke;
+    }
+    header{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+        color: black;
+    }
+    
+}
+
+@media (min-width: 992px){
+
+    body{
+        background-color: violet;
+    }
+    img{
+        width: 50%;
+    }
+}
+
+@media ( min-width: 1200px){
+
+    body{
+        background-color: aquamarine;
+    }
+}
+
